@@ -1,2 +1,2 @@
-# p5.play-boilerplate
+# PRO-C31: PLINKO
 PRO-C31: PLINKO
